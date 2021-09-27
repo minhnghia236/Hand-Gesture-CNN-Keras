@@ -4,4 +4,5 @@ Simple Deep Learning Project For Beginner
 - pip install cv2
 - pip install matplotlib
 - pip install numpy
-2. Detect ===> detect.py
+2. Detect 
+detect.py
